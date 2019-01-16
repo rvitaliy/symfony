@@ -67,6 +67,7 @@ class ArrayAdapter implements AdapterInterface, CacheInterface, LoggerAwareInter
 
     /**
      * {@inheritdoc}
+     * 
      */
     public function getItem($key)
     {
